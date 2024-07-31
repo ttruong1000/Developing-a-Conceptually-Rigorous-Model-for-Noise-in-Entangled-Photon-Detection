@@ -1,2 +1,2 @@
-# Developing-a-Conceptually-Rigorous-Model-for-Noise-in-Entangled-Photon-Detection
-Jupyter Notebooks for generated graphs of the total coincidence probability, error bound, fidelity, and visibility for the paper "Developing a Conceptually Rigorous Model for Noise in Entangled Photon Detection".
+# Developing a Conceptually Rigorous Model for Noise in Entangled Photon Detection
+Jupyter Notebooks for generated graphs of the total coincidence probability, error bound, fidelity, and visibility for the paper "Developing a Conceptually Rigorous Model for Noise in Entangled Photon Detection". It is meant to be used as a simulation and visualization tool for analyzing how this system behaves under varying dark count probability, detector efficiency, and average number of photons entering the system.
